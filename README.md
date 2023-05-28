@@ -6,11 +6,11 @@
 
 ### I have been learning and improving myself about Frontend technologies..I love being part of development of Frontend technologies.I am always open to frontend developers of technologies.
 
-#### :computer: 
+#### :computer: https://mail.google.com/mail/u/2/#inbox 
 
 ##### Technologies I Use 
 <img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/html.svg" width="30" style="max-width: 100%;"><img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/css.svg" width="30" style="max-width: 100%;"><img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/js.svg" margin-right="8px" width="30" style="max-width: 100%;"><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" style="max-width: 100%;"><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25" style="max-width: 100%;">
-###### H6
+
 
 <!--Bold-->
 
