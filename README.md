@@ -1,6 +1,6 @@
 <!--Headers-->
 
-# Hi there :wave:, how you doing ? 
+# Hi there :wave:, I'm Furkan ? 
 
 ## Frontend Developer
 
