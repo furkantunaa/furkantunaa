@@ -9,7 +9,7 @@
 #### :computer: 
 
 ##### Technologies I Use 
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/html.svg" width="30" style="max-width: 100%;">
+<img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/html.svg" width="30" style="max-width: 100%;"><img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/css.svg" width="30" style="max-width: 100%;"><img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/js.svg" width="30" style="max-width: 100%;">
 
 ###### H6
 
