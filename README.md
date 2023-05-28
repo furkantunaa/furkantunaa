@@ -1,14 +1,14 @@
 <!--Headers-->
 
-# Hi there :star_struck:, how you doing ? 
+# Hi there :wave:, how you doing ? 
 
 ## Frontend Developer
 
 ### I have been learning and improving myself about Frontend technologies..I love being part of development of Frontend technologies.I am always open to frontend developers of technologies.
 
-#### H4
+#### :computer: 
 
-##### H5
+##### Technologies I Use
 
 ###### H6
 
