@@ -1,10 +1,10 @@
 <!--Headers-->
 
-# Hi there, how you doing ? 
+# Hi there :star_struck:, how you doing ? 
 
 ## Frontend Developer
 
-### H3  I have been learning and improving myself about Frontend technologies..I love being part of development of Frontend technologies.I am always open to frontend developers o technologies.
+### I have been learning and improving myself about Frontend technologies..I love being part of development of Frontend technologies.I am always open to frontend developers o technologies.
 
 #### H4
 
