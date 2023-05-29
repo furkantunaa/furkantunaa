@@ -1,6 +1,6 @@
 <!--Headers-->
 
-# Hi there :wave:, I'm Furkan ? 
+# Hi there :wave:, I'm Furkan ?
 
 ## Frontend Developer
 
@@ -8,33 +8,29 @@
 
 ####
 
-##### Technologies I Use 
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/html.svg" width="30" style="max-width: 100%;"><img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/css.svg" width="30" style="max-width: 100%;"><img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/js.svg" margin-right="8px" width="30" style="max-width: 100%;"><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" style="max-width: 100%;"><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25" style="max-width: 100%;">
+##### Technologies I Use
 
+<img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/html.svg" width="30" style="max-width: 100%;">
+<img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/css.svg" width="30" style="max-width: 100%;">
+<img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/js.svg" margin-right="8px" width="30" style="max-width: 100%;">
+<img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" style="max-width: 100%;">
 
-<!--Bold-->
+##### :computer: Social 
 
-** bu test bold **
-** bu text bold **
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkantunaa)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tunaf941@gmail.com)
 
-<!--İtalic -->
+<details>
+<summary>💡 Github Status</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=furkantunaa&theme=dark" >
+</details>
+<br/>
 
-** bu text italic **
-\_\_ bu text italic \*\*
-
-<!--Strikethrough  -->
-
-bu text çizili
-
-<!--Quoting -->
-
-> "Daha emin ve doğru yolda yürüyeceğümiz bir yol vardır: **Büyük türk kadının** çalışmamıza ortak kılmatır."
-
-<!--Links -->
-
-Go to [Google][İnstagram]
-
-<!-- İmage-->
+<details>
+<summary>💡  Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkantunaa&layout=compact&theme=dark" >
+</details>
 
 ![Octocat](https://octodex.github.com/images/yaktocat.png)
 
@@ -77,5 +73,5 @@ Go to [Google][İnstagram]
 ```
 
 [Google]: https:/www.google.com
-[İnstagram]: https.//www.instagram.com
+[Instagram]: https.//www.instagram.com
 [Octocat]: https://octodex.github.com/images/yaktocat.pnp
