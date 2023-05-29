@@ -1,6 +1,6 @@
 <!--Headers-->
 
-<img src="https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif" align="right" width="360" height="250">
+<img src="https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif" align="right" width="390" height="250">
 
 # Hi there :wave:, I'm Furkan ?
 
@@ -29,7 +29,5 @@
 <summary>💡  Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkantunaa&layout=compact&theme=dark" >
 </details>
-
-![Octocat](https://octodex.github.com/images/yaktocat.png)
 
 <img src="https://octodex.github.com/images/yaktocat.png" width="50" height="50">
