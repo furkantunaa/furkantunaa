@@ -1,12 +1,12 @@
 <!--Headers-->
 
-<img src="https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif" align="right" width="400" height="250">
+<img src="https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif" align="right" width="400" height="350">
 
 # Hi there :wave:, I'm Furkan ?
 
 ## Frontend Developer
 
-### I am a Frontend Developer with a passion for the web world. I am dedicated to creating user-friendly, impactful, and functional websites. I possess a strong visual aesthetic in web design and development, and I stay updated with modern interface trends to maximize user experience."
+### I am a Frontend Developer with a passion for the web world. I am dedicated to creating user-friendly, impactful, and functional I stay updated with modern interface trends to maximize user experience."
 
 ####
 
