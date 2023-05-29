@@ -1,6 +1,7 @@
 <!--Headers-->
 
-<img src="https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif" justify-content="flex-end" width="400" height="250">
+<img src="https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif" align="right" width="400" height="250">
+
 # Hi there :wave:, I'm Furkan ?
 
 ## Frontend Developer
