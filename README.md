@@ -2,11 +2,17 @@
 
 <img src="https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif" align="right" width="360" height="250">
 
+<div color="white">
 # Hi there :wave:, I'm Furkan ?
+</div>
 
+<div color="white"> 
 ## Frontend Developer
+ </div>
 
+<div color="white"> 
 ### I am a Frontend Developer with a passion for the web world. I am dedicated to creating user-friendly, impactful, and functional I stay updated with modern interface trends to maximize user experience."
+</div>
 
 ####
 
