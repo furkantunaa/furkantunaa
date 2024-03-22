@@ -2,11 +2,11 @@
 
 <img src="https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif" align="right" width="360" height="250">
 
-<div color="white" text-decoration="none" >
+<div color="white" border-bottom="none" >
 # Hi there :wave:, I'm Furkan ?
 </div>
 
-<div color="white" text-decoration="none"> 
+<div color="white"border-bottom="none"> 
 ## Frontend Developer
  </div>
 
